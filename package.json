@@ -1,0 +1,9 @@
+{
+  "name": "clear-site-cache",
+  "title": "clear-site-cache",
+  "id": "jid1-6CLCC0H1teLcrQ",
+  "description": "Clear the cache for the site you are currently on",
+  "author": "Jeppe Toustrup",
+  "license": "MIT",
+  "version": "0.1"
+}
