@@ -1,9 +1,12 @@
 {
   "name": "clear-site-cache",
-  "title": "clear-site-cache",
+  "title": "Clear Site Cache",
   "id": "jid1-6CLCC0H1teLcrQ",
-  "description": "Clear the cache for the site you are currently on",
+  "description": "Quick one click solution to clear the cached contents of the site you are currently browsing.",
   "author": "Jeppe Toustrup",
+  "homepage": "http://tenzer.dk/projects/clear-site-cache/",
+  "icon": "data/icon-64.png",
+  "icon64": "data/icon-64.png",
   "license": "MIT",
-  "version": "0.1"
+  "version": "1.0.0"
 }
