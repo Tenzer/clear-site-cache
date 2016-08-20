@@ -1,10 +1,11 @@
 {
   "name": "clear-site-cache",
   "title": "Clear Site Cache",
-  "id": "jid1-6CLCC0H1teLcrQ",
+  "id": "jid1-6CLCC0H1teLcrQ@jetpack",
   "description": "Quick one click solution to clear the cached contents of the site you are currently browsing.",
   "author": "Jeppe Toustrup",
   "homepage": "http://tenzer.dk/projects/clear-site-cache/",
+  "main": "lib/main.js",
   "icon": "data/icon-64.png",
   "icon64": "data/icon-64.png",
   "license": "MIT",
