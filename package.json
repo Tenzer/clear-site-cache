@@ -4,7 +4,7 @@
   "id": "jid1-6CLCC0H1teLcrQ@jetpack",
   "description": "Quick one click solution to clear the cached contents of the site you are currently browsing.",
   "author": "Jeppe Toustrup",
-  "homepage": "http://tenzer.dk/projects/clear-site-cache/",
+  "homepage": "https://github.com/Tenzer/clear-site-cache",
   "main": "lib/main.js",
   "icon": "data/icon-64.png",
   "icon64": "data/icon-64.png",
