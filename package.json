@@ -2,12 +2,12 @@
   "name": "clear-site-cache",
   "title": "Clear Site Cache",
   "id": "jid1-6CLCC0H1teLcrQ@jetpack",
-  "description": "Quick one click solution to clear the cached contents of the site you are currently browsing.",
+  "description": "Quick one click solution to clear the cached contents of the site you are currently browsing. \n\nIcon made by Freepik from www.flaticon.com. License: CC 3.0 BY.",
   "author": "Jeppe Toustrup",
   "homepage": "https://github.com/Tenzer/clear-site-cache",
   "main": "lib/main.js",
-  "icon": "data/icon-64.png",
-  "icon64": "data/icon-64.png",
+  "icon": "data/dark-icon-128.png",
+  "icon64": "data/dark-icon-64.png",
   "license": "MIT",
   "version": "1.0.0"
 }
