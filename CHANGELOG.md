@@ -8,3 +8,6 @@
 * Addition of context menu item (Thank you Johan Carlquist! [#6](https://github.com/Tenzer/clear-site-cache/pull/6))
 * Bytes removed is now provided in KB or MB depending on amount
 * Switched to a flat icon style
+
+## 1.1.1 - 2016-09-16
+* Bugfix: Make the default icon dark
